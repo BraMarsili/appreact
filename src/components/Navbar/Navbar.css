@@ -1,0 +1,8 @@
+nav ul li a:hover {
+    background-color: black;
+  }
+  
+nav img {
+  width: 150px;
+  height: 40px;
+}
